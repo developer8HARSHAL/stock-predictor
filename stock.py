@@ -8,7 +8,7 @@ import tensorflow as tf
 from keras.models import  load_model
 import streamlit as st 
 
-start = '2010-01-01'
+start = '2016-01-01'
 end = '2023-7-30'
 
 
